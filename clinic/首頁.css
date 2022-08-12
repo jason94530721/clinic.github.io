@@ -1,0 +1,63 @@
+body{
+  margin:0;
+}
+.caption{
+  padding: 40px 0px 0px;
+}
+.clinic{
+  font-size: 50px;
+  text-align: center;
+}
+.caption1{
+  overflow: hidden;
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+}
+a{
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+}
+.button{
+  padding: 10px 0;
+  overflow: hidden;
+  width: 100%;
+}
+.button1{
+  margin: 0 auto;
+  overflow: hidden;
+  text-align: center;
+  display: block;
+}
+.wsite-menu-default{
+  padding: 0;
+  margin:0;
+}
+li{
+  display: inline-block;
+  padding: 0 20px;
+  margin: 0;
+  font-size: 25px;
+}
+.con{
+  margin: 10px 20px 10px 20px;
+  padding: 20px;
+  flex-direction: row;
+  display: flex;
+  flex-wrap: wrap;
+  color: rgb(160,146,145);
+}
+.art-re{
+  margin-top: 15px ;
+  margin: 20px auto;
+  padding: 20px ;
+  float: center; 
+  color: rgb(160,146,145);
+  
+} 
+.button{
+  box-sizing:border-box;  
+}
+
+
