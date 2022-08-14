@@ -1,0 +1,13 @@
+  a{
+    text-decoration: none;
+  }
+  th, td {
+    padding: 15px;
+  }
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+ p{
+    line-height: 30%;
+  }
