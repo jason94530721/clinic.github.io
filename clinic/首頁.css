@@ -1,12 +1,15 @@
 body{
   margin:0;
+  font-family: arial;
 }
 .caption{
   padding: 40px 0px 0px;
 }
 .clinic{
-  font-size: 50px;
+  font-size: 65px;
   text-align: center;
+  color: #0000FA;
+  font-weight: 1000;
 }
 .caption1{
   overflow: hidden;
@@ -53,9 +56,12 @@ li{
   margin: 20px auto;
   padding: 20px ;
   float: center; 
-  color: rgb(160,146,145);
-  
-} 
+  color: rgb(160,146,145);  
+}
+.art-main{
+  background-color: #63FFFF;
+  margin: 0 auto;
+}
 .button{
   box-sizing:border-box;  
 }
