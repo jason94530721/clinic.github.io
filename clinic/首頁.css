@@ -60,10 +60,11 @@ li{
 }
 .art-main{
   background-color: #63FFFF;
-  margin: 0 auto;
 }
 .button{
   box-sizing:border-box;  
 }
-
+.list{
+  flex-wrap:nowrap;
+}
 
