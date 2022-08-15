@@ -65,6 +65,6 @@ li{
   box-sizing:border-box;  
 }
 .list{
-  flex-wrap:nowrap;
+  flex-wrap:wrap;
 }
 
