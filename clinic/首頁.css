@@ -36,6 +36,7 @@ a{
 .wsite-menu-default{
   padding: 0;
   margin:0;
+  display: wrap;
 }
 li{
   display: inline-block;
