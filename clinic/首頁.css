@@ -5,6 +5,7 @@ body{
 .caption{
   padding: 40px 0px 0px;
 }
+
 .clinic{
   font-size: 65px;
   text-align: center;
@@ -68,4 +69,3 @@ li{
 .list{
   flex-wrap:wrap;
 }
-
